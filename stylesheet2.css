@@ -59,7 +59,9 @@
   .container {
     width: 80%;
     column-gap: 40px;}
-  .column,
+  .column {
+    width: 80%;
+    column-gap: 40px;}
   .columns {
     margin: 0; 
     column-gap: 40px;}

@@ -57,10 +57,12 @@
 /* For devices larger than 550px */
 @media (min-width: 550px) {
   .container {
-    width: 80%; }
+    width: 80%;
+    column-gap: 40px;}
   .column,
   .columns {
-    margin: 0; }
+    margin: 0; 
+    column-gap: 40px;}
 
   .one.column,
   .one.columns                    { width: calc(100% / 12); }

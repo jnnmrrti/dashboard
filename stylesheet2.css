@@ -61,18 +61,30 @@
     margin: 0; }
 
   .one.column,
-  .one.columns                    { width: calc(100% / 12); }
-  .two.columns                    { width: calc(100% / (12 / 2)); }
-  .three.columns                  { width: calc(100% / (12 / 3)); }
-  .four.columns                   { width: calc(100% / (12 / 4)); }
-  .five.columns                   { width: calc(100% / (12 / 5)); }
-  .six.columns                    { width: calc(100% / (12 / 6)); }
-  .seven.columns                  { width: calc(100% / (12 / 7)); }
-  .eight.columns                  { width: calc(100% / (12 / 8)); }
-  .nine.columns                   { width: calc(100% / (12 / 9)); }
-  .ten.columns                    { width: calc(100% / (12 / 10)); }
-  .eleven.columns                 { width: calc(100% / (12 / 11)); }
-  .twelve.columns                 { width: 100%; }
+  .one.columns                    { width: calc(100% / 24); }
+  .two.columns                    { width: calc(100% / (24 / 2)); }
+  .three.columns                  { width: calc(100% / (24 / 3)); }
+  .four.columns                   { width: calc(100% / (24 / 4)); }
+  .five.columns                   { width: calc(100% / (24 / 5)); }
+  .six.columns                    { width: calc(100% / (24 / 6)); }
+  .seven.columns                  { width: calc(100% / (24 / 7)); }
+  .eight.columns                  { width: calc(100% / (24 / 8)); }
+  .nine.columns                   { width: calc(100% / (24 / 9)); }
+  .ten.columns                    { width: calc(100% / (24 / 10)); }
+  .eleven.columns                 { width: calc(100% / (24 / 11)); }
+  .twelve.columns                 { width: calc(100% / (24 / 12)); }
+  .thirteen.columns               { width: calc(100% / (24 / 13)); }
+  .fourteen.columns               { width: calc(100% / (24 / 14)); }
+  .fifteen.columns                { width: calc(100% / (24 / 15)); }
+  .sixteen.columns                { width: calc(100% / (24 / 16)); }
+  .seventeen.columns              { width: calc(100% / (24 / 17)); }
+  .eighteen.columns               { width: calc(100% / (24 / 18)); }
+  .nineteen.columns               { width: calc(100% / (24 / 19)); }
+  .twenty.columns                 { width: calc(100% / (24 / 20)); }
+  .twentyone.columns              { width: calc(100% / (24 / 21)); }
+  .twentytwo.columns              { width: calc(100% / (24 / 22)); }
+  .twentythree.columns            { width: calc(100% / (24 / 23)); }
+  .twentyfour.columns             { width: 100%; }
 }
 
 /* Base Styles

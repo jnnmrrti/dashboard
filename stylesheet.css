@@ -312,7 +312,9 @@ input,
 textarea,
 select,
 fieldset {
-  margin-bottom: 0rem; }
+  margin-bottom: 0rem; 
+  font-size: larger;
+  font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;}
 pre,
 dl,
 figure,

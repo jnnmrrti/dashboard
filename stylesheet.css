@@ -376,9 +376,12 @@ there.
 
 .Select-input input {
   border: none;
+  color: #b55f20;
 }
 
-/* hide the plotly undo button*/
-._dash-undo-redo {
-  display: none;
-}
+/*.Select, .Select div, .Select input, .Select span {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  color: #b55f20;
+}*/
